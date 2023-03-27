@@ -11,6 +11,8 @@ function App() {
     section.scrollIntoView({ behavior: 'smooth' });
   }
 
+  document.title = "Cameron Candau";
+
   return (
     <div className="App">
       <header className="App-header">
