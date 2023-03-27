@@ -21,7 +21,7 @@ function App() {
           <a href="https://www.linkedin.com/in/cameron-candau/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin size={20} />
           </a>
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Cam-Can-Do" target="_blank" rel="noopener noreferrer">
             <FaGithub size={20} />
           </a>
 
