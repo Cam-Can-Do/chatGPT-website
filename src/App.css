@@ -1,0 +1,91 @@
+body {
+  background-color: #1a1a1a;
+  margin: 0;
+}
+
+.App {
+  background-color: #1a1a1a;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: black;
+  padding: 20px;
+}
+
+.App-header h1 {
+  margin: 0;
+  text-align: left;
+}
+
+.header-right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.header-right a {
+  margin-left: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+}
+
+.header-right a:hover {
+  color: #61dafb;
+}
+
+section {
+  margin: 900px 50px;
+  margin-top: 150px; /* Adjust the value to match the height of your header */
+  padding-top: 80px;
+
+}
+
+section:first-of-type {
+  margin-top: 0px;
+}
+
+h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+li:last-of-type {
+  margin-bottom: 0;
+}
+
+@media
