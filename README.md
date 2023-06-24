@@ -1,3 +1,7 @@
+# Description:
+An attempt at creating a personal portfolio website using Chat-GPT to code in React for fun.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
