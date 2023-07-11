@@ -1,5 +1,5 @@
 # Description:
-An attempt at creating a personal portfolio website using Chat-GPT to code in React for fun.
+An attempt at creating a personal portfolio website by only instructing Chat-GPT to write code (React JS).
 
 
 # Getting Started with Create React App
